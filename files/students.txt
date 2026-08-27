@@ -1,0 +1,26 @@
+StudentID	Name	Email	Phone	CourseID
+1	Ian King	ian.king@university.edu	(561)-342-3212	101
+2	Rachel Green	rachel.green@university.edu	(500)-913-8891	101
+3	George Morris	george.morris@university.edu	(352)-852-1826	105
+4	Uma Morris	uma.morris@university.edu	(239)-341-8859	104
+5	Rachel Stevens	rachel.stevens@university.edu	(498)-804-8874	105
+6	Alice Evans	alice.evans@university.edu	(929)-407-5657	102
+7	Wendy Evans	wendy.evans@university.edu	(257)-365-5447	105
+8	George Quincy	george.quincy@university.edu	(922)-499-5312	101
+9	Steve Young	steve.young@university.edu	(390)-928-3614	102
+10	Oscar Owens	oscar.owens@university.edu	(933)-503-7888	102
+11	Hannah Irwin	hannah.irwin@university.edu	(960)-729-6887	102
+12	Uma King	uma.king@university.edu	(503)-724-4197	103
+13	Victor Xu	victor.xu@university.edu	(233)-407-2790	101
+14	Uma Underwood	uma.underwood@university.edu	(530)-701-5719	101
+15	Quinn Johnson	quinn.johnson@university.edu	(645)-277-8461	101
+16	Tina Davis	tina.davis@university.edu	(870)-672-4930	105
+17	Xavier Irwin	xavier.irwin@university.edu	(400)-379-2928	104
+18	Evan Davis	evan.davis@university.edu	(595)-241-6538	104
+19	Rachel Davis	rachel.davis@university.edu	(562)-891-2922	102
+20	Yvonne Clark	yvonne.clark@university.edu	(769)-728-1896	102
+21	Julia Young	julia.young@university.edu	(897)-399-3468	105
+22	Alice Quincy	alice.quincy@university.edu	(857)-534-4022	105
+23	Ian Irwin	ian.irwin@university.edu	(880)-863-1641	103
+24	Paula Green	paula.green@university.edu	(331)-825-2657	104
+25	Laura Turner	laura.turner@university.edu	(645)-843-3561	103
