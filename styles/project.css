@@ -1,5 +1,5 @@
 html{
-    background-image: linear-gradient(to bottom, white 0%, #facd8a 100%);
+    background-image: linear-gradient(to left, white 0%, #facd8a 100%);
 }
 body {
     width: 90%;
@@ -67,4 +67,10 @@ aside {
 footer {
     clear: both;
     border-top: 2px solid maroon;
+}
+p.fixed {
+    position: fixed;
+    width:auto;
+    color:lightgreen;
+
 }
