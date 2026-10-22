@@ -34,13 +34,14 @@ body {
 }
 article h1 {
        column-span: all;
+       color: rgb(0, 100, 0);
 }
 article {
    clear: both;
    width: 70%;
    float: left;
    column-count: 3;
-   column-rule: 2px dotted rgb(0, 100, 0); 
+   column-rule: 15px dotted rgb(0, 100, 0); 
    column-gap: 2em;
    margin-left: 2em;
 }
