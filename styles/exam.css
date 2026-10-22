@@ -36,6 +36,18 @@ article h1 {
        column-span: all;
        color: rgb(0, 100, 0);
 }
+article h2 {
+       color: rgb(0, 100, 0);
+}
+article h3 {
+       color: rgb(0, 100, 0);
+}
+article h4 {
+       color: rgb(0, 100, 0);
+}
+article h5 {
+       color: rgb(0, 100, 0);
+}
 article {
    clear: both;
    width: 70%;
