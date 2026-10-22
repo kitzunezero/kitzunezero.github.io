@@ -62,6 +62,7 @@ article img {
     margin-bottom: 1em;
 } 
 article p::first-letter {
+    font-family: "Times New Roman", Times, serif;
     font-size: 3em;
     font-weight: bold;
     font-style: italic;
