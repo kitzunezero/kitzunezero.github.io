@@ -52,6 +52,11 @@ article {
    column-gap: 2em;
    margin-left: 2em;
 }
+article img {
+    float:left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+} 
 aside {
     position: fixed;
     right: 0;
@@ -63,6 +68,7 @@ aside {
 }
 
 footer {
+    clear: both;
     border-top: 2px solid rgb(0, 100, 0);
     text-align: center;
 }
