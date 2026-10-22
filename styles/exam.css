@@ -23,7 +23,7 @@ body {
     width: 90%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
-    margin: 0 auto;
+    margin: 15px auto;
     padding: 15px 1.5em;
     border: 1px solid black;
     border-radius: 25px;
@@ -31,6 +31,8 @@ body {
     background: url("/images/SHSULogo.png") right repeat-y;
     background-attachment: fixed;
     background-color: white;
+    min-height: 100vh; 
+    box-sizing: border-box; 
 }
 
 article h1 {
