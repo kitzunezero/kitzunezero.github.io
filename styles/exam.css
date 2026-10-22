@@ -1,7 +1,24 @@
 html{
     background-image: linear-gradient(to right, rgb(173, 216, 230), rgb(255, 255, 255))
 }
-.NavigationMenu
+#NavMenu ul { list-style-type: none; }
+#NavMenu ul li { float: left; }
+#NavMenu ul li a {
+    text-align: center;
+    display: block;
+    width: 175px;
+    padding: 1em 0;  
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-right: 2px solid white; }
+#NavMenu ul li a.lastitem { border-right: none; }	
+#NavMenu ul li a.current { color: yellow; }
+header {
+    padding-bottom: 2em;
+    border-bottom: 2px solid rgb(0, 100, 0);
+}
 
 
 .GreenLine{
