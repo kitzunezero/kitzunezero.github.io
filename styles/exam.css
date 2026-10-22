@@ -32,6 +32,18 @@ body {
     background-attachment: fixed;
     background-color: white;
 }
+article h1 {
+       column-span: all;
+}
+article {
+   clear: both;
+   width: 70%;
+   float: left;
+   column-count: 3;
+   column-rule: 2px dotted rgb(0, 100, 0); 
+   column-gap: 2em;
+   margin-left: 2em;
+}
 p.Fixed {
     position: fixed;
     right: 0;
