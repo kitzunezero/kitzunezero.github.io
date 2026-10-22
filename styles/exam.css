@@ -44,7 +44,7 @@ article {
    column-gap: 2em;
    margin-left: 2em;
 }
-p.Fixed {
+aside {
     position: fixed;
     right: 0;
     bottom: 35%;
