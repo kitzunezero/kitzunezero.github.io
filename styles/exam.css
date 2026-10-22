@@ -1,5 +1,6 @@
 html{
-    background-image: linear-gradient(to right, rgb(173, 216, 230), rgb(255, 255, 255))
+    background-image: linear-gradient(to right, rgb(173, 216, 230), rgb(255, 255, 255));
+    height: 100%;
 }
 #NavMenu ul { list-style-type: none; }
 #NavMenu ul li { float: left; }
