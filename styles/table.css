@@ -41,7 +41,7 @@ table.third thead caption:first-child{
     background-color: lightgreen;
     border-top: 2px solid orangered;
 }
-table.third thead th {
+table.third th {
     background-color: lightgreen;
 }
 table.third tbody th, table.third tbody td {
