@@ -35,13 +35,10 @@ table.second thead tr:first-child{
     border-bottom: 2px solid purple;
 }
 /*-----------------------------------------------------------*/
-table.third {
-    border-collapse: collapse; 
-    border: 2px solid orangered;   
-}
+
 table.third thead caption:first-child{     
     background-color: lightgreen;
-    border: 2px solid orangered;
+    border-top: 2px solid orangered;
 }
 table.third thead th {
     background-color: lightgreen;
