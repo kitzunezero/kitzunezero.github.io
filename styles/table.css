@@ -38,7 +38,16 @@ table.second thead tr:first-child{
 table.third {
     border-collapse: collapse; 
     border: 2px solid orangered;   
+    caption-background: lightgreen;
 }
-table.third th, table.third td {
+
+table.third th {
     background-color: lightgreen;
 }
+table.second th, table.second td {
+    padding: 0.7em;  
+    vertical-align: middle;
+    border: 2px solid purple;
+}
+table.second thead tr:first-child{     
+    border-bottom: 2px solid purple;
