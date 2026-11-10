@@ -41,6 +41,7 @@ table.third {
 }
 table.third thead caption:first-child{     
     background-color: lightgreen;
+    border: 2px solid orangered;
 }
 table.third th {
     background-color: lightgreen;
