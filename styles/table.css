@@ -37,6 +37,7 @@ table.second thead tr:first-child{
 /*-----------------------------------------------------------*/
 
 table.third thead caption:first-child{     
+    border-collapse: collapse;
     background-color: lightgreen;
     border-top: 2px solid orangered;
 }
@@ -46,7 +47,7 @@ table.third thead th {
 table.third tbody th, table.third tbody td {
     padding: 0.7em;  
     vertical-align: middle;
-    border: 2px solid orangered;
+    border-bottom: 2px solid orangered;
 }
 table.third tbody tr:nth-child{     
     border-bottom: 2px solid orangered;
