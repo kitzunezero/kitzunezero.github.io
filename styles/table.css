@@ -40,7 +40,7 @@ table.third {
     border: 2px solid orangered;   
     
 }
-table.third thead caption:first-child{     
+table.third thead thead tr:first-child{     
     background-color: lightgreen;
 }
 table.third th {
