@@ -46,7 +46,7 @@ table.third caption {
     padding : 0.5em;
     font-weight: bold;
 }
-table.third thead tr {     
+table.third tbody tr {     
     background-color: lightgreen;
 }
 table.third th {
