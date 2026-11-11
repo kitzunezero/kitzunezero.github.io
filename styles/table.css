@@ -36,19 +36,24 @@ table.second thead tr:first-child{
 }
 /*-----------------------------------------------------------*/
 
-table.third thead caption:first-child{     
+table.third {     
     border-collapse: collapse;
+}
+table.third caption {
     background-color: lightgreen;
     border-top: 2px solid orangered;
+    border-bottom: 2px solid orangered;
+    padding : 0.5em;
+    font-weight: bold;
 }
 table.third th {
-    background-color: lightgreen;
-}
-table.third tbody th, table.third tbody td {
     padding: 0.7em;  
     vertical-align: middle;
-    border-bottom: 2px solid orangered;
 }
-table.third tbody tr:nth-child{     
+table.third tbody td {
+    padding : 0.7em;
+    vertical-align: middle;
+}
+table.third .group-end {     
     border-bottom: 2px solid orangered;
 }
