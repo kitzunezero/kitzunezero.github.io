@@ -18,7 +18,15 @@
                         <p>Gallons: ${gallons}</p>
                         <p>MPG: ${mpg.toFixed(2)}</p>`;
         document.write(html2);
-    </script>    
-
+    </script>   
+    <script>
+        const width = parseFloat(prompt("Enter width of rectangle"));
+        const height = parseFloat(prompt("Enter height of rectangle"));
+        const area = width * height;
+        const html3 = `<p>Width: ${width}</p>
+                        <p>Height: ${height}</p>
+                        <p>Area: ${area.toFixed(3)}</p>`;
+        document.write(html3);
+    </script>
 </body>
 </html>
