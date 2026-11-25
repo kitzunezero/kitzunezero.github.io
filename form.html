@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Q8</title>
+    <link rel="stylesheet" href="form.css">
 </head>
 <body>
 <form action="register_account.html" method="post" id="registration_form"> 
@@ -46,16 +47,27 @@
     </fieldset>
     <fieldset>
         <legend>Membership Information</legend>
-        <label for="membership_type">Membership Type:</label>
+        <label for="membershiptype">Membership Type:</label>
         <select name="MembershipType" id="MembershipType">
             <option value="junior">Junior</option>
             <option value="regular">Regular</option>
             <option value="charter">Charter</option>
-        </select>
-        <label for="starting_date">Starting Date:</label>
-        <input type="date" name="starting_date" id="starting_date" required><br>
-        <label for="tickets">Tickets:</label>
-        <input type="number" name="tickets" id="tickets" min="1" max="4" value="2"><br>
+        </select> <br>
+        <input type="date" name="startingdate" id="startingdate" required>
+        <label for="startingdate">Starting Date:</label><br>
+        <input type="number" name="tickets" id="tickets" min="1" max="4" value="2">
+        <label for="tickets">Tickets for Guests:</label> <br>
+    </fieldset>
+    <fieldset>
+        <legend>How Did You Hear About Us?</legend>
+        <input type="checkbox" name="SearchEngine" id="hearab1" value="search">
+        <label for="search">Search engine</label><br>
+        <input type="checkbox" name="Social" id="hearab2" value="social">
+        <label for="social">Social Media</label><br>
+        <input type="checkbox" name="Email" id="hearab3" value="email">
+        <label for="email">Email</label><br>
+        <input type="checkbox" name="FriendOrColleague" id="hearab4" value="friendorcolleague">
+        <label for="friendorcolleague">Friend or colleague</label><br>
     </fieldset>
 </form>
 </body>
